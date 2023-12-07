@@ -1,5 +1,4 @@
-cp vimConfig/vimrc ~/
-mv ~/vimrc ~/.vimrc
+cp vimConfig/vimrc ~/.vimrc
 
 cp -r vimConfig/vim.zip ~/
 unzip ~/vim.zip
