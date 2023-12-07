@@ -2,7 +2,7 @@
 my costumized Vimrc
 
 ## Installing 
-> ` git clone https://github.com/M4tth145/vimConfig ` [^1] <br>
+> ` git clone https://github.com/M4tth145/vimrc ` [^1] <br>
 > ` sh vimConfig/loadvimrc.sh ` [^2][^3] <br>
 [^1]: downloads the repository
 [^2]: installs the config to your Vim source-code-editor
