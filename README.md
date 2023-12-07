@@ -1,5 +1,5 @@
-# vimConfig
-my Vimrc
+# vimrc
+my costumized Vimrc
 
 ## Installing 
 > ` git clone https://github.com/M4tth145/vimConfig ` [^1]
